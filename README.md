@@ -51,18 +51,9 @@ Currently I'am
   <h3>🌐 Connect With Me</h3>
   <br>
   <p style="display: flex; justify-content: center; gap: 32px;">
-    <!-- <a href="https://www.facebook.com/graliquaderi" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="41" height="41" style="filter: invert(1);"/>
-    </a>
-    <a href="https://www.instagram.com/graliquaderi" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="41" height="41" style="filter: invert(1);"/>
-    </a> -->
     <a href="https://x.com/graliquaderi" target="_blank">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="41" height="41" style="filter: invert(1);"/>
     </a>
-    <!-- <a href="YOUR_LINKEDIN_URL" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="41" height="41" style="filter: invert(1);"/>
-    </a> -->
     <a href="https://discord.com/users/graliquaderi" target="_blank">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="41" height="41" style="filter: invert(1);"/>
     </a>

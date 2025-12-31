@@ -50,16 +50,19 @@ Currently I'am
 <div align="center">
   <h3>🌐 Connect With Me</h3>
   <br>
-  <p style="display: flex; justify-content: center; gap: 32px;">
+  <p>
     <a href="https://x.com/graliquaderi" target="_blank">
       <img src="https://cdn.simpleicons.org/x/white" width="41" />
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://discord.com/users/graliquaderi" target="_blank">
       <img src="https://cdn.simpleicons.org/discord/white" width="41" />
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.youtube.com/@graliquaderi" target="_blank">
       <img src="https://cdn.simpleicons.org/youtube/white" width="41" />
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://codeforces.com/profile/graliquaderi" target="_blank">
       <img src="https://cdn.simpleicons.org/codeforces/white" width="41" />
     </a>

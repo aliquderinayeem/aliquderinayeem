@@ -52,16 +52,16 @@ Currently I'am
   <br>
   <p style="display: flex; justify-content: center; gap: 32px;">
     <a href="https://x.com/graliquaderi" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="41" height="41" style="filter: invert(1);"/>
+      <img src="https://cdn.simpleicons.org/x/white" width="41" />
     </a>
     <a href="https://discord.com/users/graliquaderi" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="41" height="41" style="filter: invert(1);"/>
+      <img src="https://cdn.simpleicons.org/discord/white" width="41" />
     </a>
     <a href="https://www.youtube.com/@graliquaderi" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="41" height="41" style="filter: invert(1);"/>
+      <img src="https://cdn.simpleicons.org/youtube/white" width="41" />
     </a>
     <a href="https://codeforces.com/profile/graliquaderi" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="41" height="41" style="filter: invert(1);"/>
+      <img src="https://cdn.simpleicons.org/codeforces/white" width="41" />
     </a>
   </p>
 </div>

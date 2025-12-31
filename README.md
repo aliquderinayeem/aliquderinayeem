@@ -108,19 +108,11 @@ Currently I'am
 
 <div align="center">
 
-### 🔥 Contribution Stats
+<h3>⚡ Contribution Streak</h3>
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=aliquderinayeem&show_icons=true&count_private=true&hide_title=true&theme=radical&bg_color=00000000&hide_border=true&show_icons=true&icon_color=ff0000&title_color=ff0000&text_color=ffffff" height="180" alt="GitHub Stats" />
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliquderinayeem&langs_count=8&layout=compact&theme=radical&bg_color=00000000&hide_border=true&title_color=ff0000&text_color=ffffff" height="180" alt="Top Languages" />
-
-<br>
-
-### ⚡ Contribution Streak
-
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aliquderinayeem&theme=radical&background=00000000&hide_border=true&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0000&sideLabels=ffffff&dates=aaaaaa" height="180" alt="GitHub Streak" />
+<img
+  src="https://streak-stats.demolab.com?user=aliquderinayeem&theme=radical&background=00000000&hide_border=true&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0000&sideLabels=ffffff&dates=aaaaaa"
+  height="180"
+/>
 
 </div>

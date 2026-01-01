@@ -110,9 +110,19 @@ Currently I'am
 
 <h3>⚡ Contribution Streak</h3>
 
-<img
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-beige-pi.vercel.app?user=aliquderinayeem&theme=github_light&hide_border=false" alt="GitHub Streak" width="580"/></a>
+
+
+<!-- <img
   src="https://streak-stats.demolab.com?user=aliquderinayeem&theme=radical&background=00000000&hide_border=true&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0000&sideLabels=ffffff&dates=aaaaaa"
   height="180"
-/>
+/> -->
 
 </div>
+<!-- <div align="center">
+
+
+<!-- <img src="https://raw.githubusercontent.com/aliquderinayeem/aliquderinayeem/refs/heads/output/snake.svg" alt="Snake animation" />
+
+</div> --> 
